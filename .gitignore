@@ -1,5 +1,6 @@
 # Data
 /data/raw/itineraries_csv
+/data/raw/merged_file
 
 # Mac OS-specific storage files
 .DS_Store
